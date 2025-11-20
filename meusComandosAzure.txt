@@ -1,0 +1,101 @@
+    1  vim
+    2  vim credenciais
+    3  exit
+    4  sudo apt update
+    5  sudo apt upgrade -y
+    6  sudo apt install apache2 -y
+    7  sudo systemctl status apache2
+    8  sudo systemctl enable apache2
+    9  git clone https://github.com/NicolasCP-12/meurepositoriohtml.git
+   10  cd
+   11  ls
+   12  cd credenciais
+   13  cat credenciais
+   14  cd meurepositoriohtml
+   15  ls
+   16  cd
+   17  cd /var/www/html
+   18  ls
+   19  cd
+   20  ls -all
+   21  cd ..
+   22  ls
+   23  cd azureuser
+   24  ls
+   25  rmdir meurepositoriohtml
+   26  cd meurepositoriohtml
+   27  ls
+   28  cd
+   29  git pull https://github.com/NicolasCP-12/meurepositoriohtml.git
+   30  ls
+   31  cd meurepositoriohtml/
+   32  ls
+   33  ls -all
+   34  git pull https://github.com/NicolasCP-12/meurepositoriohtml.git
+   35  ls
+   36  rm README.md 
+   37  cd
+   38  rmdir meurepositoriohtml/
+   39  rmdir meurepositoriohtml
+   40  cd meurepositoriohtml/
+   41  ls
+   42  ls -aa
+   43  ls -all
+   44  cd .git
+   45  ls
+   46  cd
+   47  rm -r meurepositoriohtml
+   48  rm -rf meurepositoriohtml
+   49  ls
+   50  clear
+   51  git clone https://github.com/NicolasCP-12/meurepositoriohtml.git
+   52  ls
+   53  ls -all
+   54  cd meurepositoriohtml/
+   55  ls
+   56  ls -all
+   57  cd /var/www/html
+   58  pwd
+   59  cd
+   60  rm -rf meurepositoriohtml
+   61  cd /var/www/html
+   62  git clone https://github.com/NicolasCP-12/meurepositoriohtml.git
+   63  sudo git clone https://github.com/NicolasCP-12/meurepositoriohtml.git
+   64  ls
+   65  cd meurepositoriohtml/
+   66  ls
+   67  cd.
+   68  cd .
+   69  cd
+   70  cd /var/www/meurepositorio
+   71  cd /var/www/html
+   72  ls
+   73  git clone https://github.com/NicolasCP-12/LI2025-Teste03rev2.git
+   74  ls
+   75  cd LI2025-Teste03rev2/
+   76  ls
+   77  cd ..
+   78  ls
+   79  cd LI2025-Teste03rev2/
+   80  ls
+   81  mkdir A132634
+   82  ls
+   83  touch README.md
+   84  ls
+   85  echo "Teste de LI 2025/2026." > README.md
+   86  cat README.md
+   87  cd ..
+   88  git add
+   89  cd LI2025-Teste03rev2/
+   90  git add
+   91  git add .
+   92  git commit -m "2ª tarefa concluída"
+   93  git pull
+   94  git cp index.html disciplinas.html
+   95  cp index.html disciplinas.html
+   96  ls
+   97  git add .
+   98  git commit -m"Criado ficheiro disciplinas.html a partir do ficheiro index.html"
+   99  git push origin main
+  100  git pull origin main
+  101  history > meusComandosAzure.txt
